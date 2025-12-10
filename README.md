@@ -85,5 +85,5 @@ This repository is intended for academic research, methodological demonstration,
 Kateryna Herasymenko  
 Viktoriia Baidala  
 Group ZK-32
-### Notebook Version
+
 
