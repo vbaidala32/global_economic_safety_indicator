@@ -77,7 +77,6 @@ Robustness testing is performed through:
 - Correlating results with the baseline index
 - Assessing indicator importance through leave-one-out exclusion tests
 
-Results show high model stability and consistent ranking patterns.
 ## Purpose
 This repository is intended for academic research, methodological demonstration, policy analysis, and coursework involving composite indicators, PCA, and international economic stability assessment.
 
